@@ -1,0 +1,16 @@
+{
+  "name": "intro-to-express",
+  "version": "0.0.1-alpha",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DMG",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
